@@ -6,7 +6,7 @@ https://www.st.com/en/microcontrollers-microprocessors/stm32g474re.html
 https://www.st.com/resource/en/reference_manual/rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
 
 3. User Guide of Board (NUCLEO-G474RE)
-https://www.st.com/en/evaluation-tools/nucleo-g474re.html
+https://www.st.com/resource/en/user_manual/dm00556337-stm32g4-nucleo64-boards-mb1367-stmicroelectronics.pdf
 
 # Software Required
 STM32CubeIDE

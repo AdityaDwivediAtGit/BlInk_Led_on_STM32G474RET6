@@ -14,3 +14,8 @@ https://www.st.com/en/development-tools/stm32cubeide.html#get-software
 
 # Board Image
 ![nucleo-g474_Vikas_sir](https://user-images.githubusercontent.com/107645490/191828809-7376ea02-76a6-43e5-b160-ebc7c226e4a7.jpg)
+
+# Note
+I am a student (as on 15-10-2022) doing this kind of Project out of my Curiosity and Interest for the first time.
+So, suggestions and pointing out my mistakes is really appreciated.
+Also, I am writing comments and references (page numbers) in my codes to make it easier for readers to understand and verify.
